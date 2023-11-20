@@ -23,7 +23,3 @@ This project is licensed under the MIT License.
 * [NFT DISPLAY ON RARIBLE](https://testnets.opensea.io/collection/elonnft-6)
 
 
-I have updated the Markdown links to use the correct syntax, which is to enclose the link text in square brackets and the link URL in parentheses. For example, the link to the Rarible NFT is now formatted as follows:
-
-```markdown
-[NFT DISPLAY ON OPENSEA TESTNET](https://testnet.rarible.com/token/polygon/0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26:1)
