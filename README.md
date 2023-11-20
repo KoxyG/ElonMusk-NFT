@@ -1,17 +1,23 @@
-npx hardhat test
+# IPFS Image Minting with Hardhat and Solidity
 
+This project demonstrates how to mint an image from IPFS using Hardhat and Solidity.
 
-This will run all of the project's tests.
+## Prerequisites
 
-## Deployment
+To run this project, you will need the following prerequisites:
 
-To deploy the project to a live network, you will need to obtain an Infura API key. Once you have an Infura API key, you can deploy the project to the Rinkeby testnet using the following command:
+* Node.js v16 or later
+* npm or yarn
+* Hardhat
+* Solidity
 
-bash
-npx hardhat run scripts/deployToRinkeby.ts
+## Installation
 
+To install the project dependencies, run the following command:
 
-This will deploy the project to the Rinkeby testnet and print the contract address to the console.
+```bash
+npm install
+
 
 ## License
 
