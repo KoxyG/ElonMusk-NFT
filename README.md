@@ -1,27 +1,29 @@
-# IPFS Image Minting with Hardhat and Solidity
+npx hardhat test
 
-This project demonstrates how to mint an image from IPFS using Hardhat and Solidity.
 
-## Prerequisites
+This will run all of the project's tests.
 
-To run this project, you will need the following prerequisites:
+## Deployment
 
-* Node.js v16 or later
-* npm or yarn
-* Hardhat
-* Solidity
+To deploy the project to a live network, you will need to obtain an Infura API key. Once you have an Infura API key, you can deploy the project to the Rinkeby testnet using the following command:
 
-## Installation
+bash
+npx hardhat run scripts/deployToRinkeby.ts
 
-To install the project dependencies, run the following command:
 
-```bash
-npm install
+This will deploy the project to the Rinkeby testnet and print the contract address to the console.
 
-Contract deployed to: 0xcb35e39eD066476729FFB231bD9fA6ee5CC1560b
+## License
+
+This project is licensed under the MIT License.
 
 ## Links
 
+* [NFT DISPLAY ON OPENSEA TESTNET](https://testnet.rarible.com/token/polygon/0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26:1)
+* [NFT DISPLAY ON RARIBLE](https://testnets.opensea.io/collection/elonnft-6)
+
+
+I have updated the Markdown links to use the correct syntax, which is to enclose the link text in square brackets and the link URL in parentheses. For example, the link to the Rarible NFT is now formatted as follows:
+
 ```markdown
 [NFT DISPLAY ON OPENSEA TESTNET](https://testnet.rarible.com/token/polygon/0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26:1)
-
