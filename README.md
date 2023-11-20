@@ -15,7 +15,7 @@ To run this project, you will need the following prerequisites:
 
 To install the project dependencies, run the following command:
 
-```bash
+
 npm install
 
 
