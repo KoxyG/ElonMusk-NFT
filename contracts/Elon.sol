@@ -19,7 +19,7 @@ contract ElonNft is ERC721URIStorage {
           _tokenIds.increment();
           uint256 newItemId = _tokenIds.current();
           _mint(msg.sender, newItemId);
-          _setTokenURI(newItemId, "https://lavender-electric-gerbil-466.mypinata.cloud/ipfs/QmPzi4nB59ob7TSaVRVFgQKaZTvUMBpHX65KENcxkQRNAy");
+          _setTokenURI(newItemId, "https://lavender-electric-gerbil-466.mypinata.cloud/ipfs/QmXdy1y9pbPi8zFSCEbMJYfuygWe45HUoFE1qGmDoLmJvn");
           console.log("Minted NFT #%s", newItemId, msg.sender);
           return newItemId;
      }

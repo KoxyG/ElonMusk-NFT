@@ -1,14 +1,24 @@
-# Sample Hardhat Project
+# IPFS Image Minting with Hardhat and Solidity
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates how to mint an image from IPFS using Hardhat and Solidity.
 
-Try running some of the following tasks:
+## Prerequisites
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
-# ElonMusk-NFT
+To run this project, you will need the following prerequisites:
+
+* Node.js v16 or later
+* npm or yarn
+* Hardhat
+* Solidity
+
+## Installation
+
+To install the project dependencies, run the following command:
+
+```bash
+npm install
+
+(`NFT DISPLAY ON RARIBLE`)[https://testnets.opensea.io/collection/elonnft-6]
+(`NFT DISPLAY ON RARIBLE`)[https://testnet.rarible.com/token/polygon/0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26:1]
+
+Contract deployed to: 0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26
