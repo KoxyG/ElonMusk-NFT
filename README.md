@@ -18,7 +18,7 @@ To install the project dependencies, run the following command:
 ```bash
 npm install
 
-(`NFT DISPLAY ON RARIBLE`)[https://testnets.opensea.io/collection/elonnft-6]
-(`NFT DISPLAY ON RARIBLE`)[https://testnet.rarible.com/token/polygon/0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26:1]
+[`NFT DISPLAY ON RARIBLE`](https://testnets.opensea.io/collection/elonnft-6)
+[`NFT DISPLAY ON RARIBLE`](https://testnet.rarible.com/token/polygon/0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26:1)
 
 Contract deployed to: 0x67aB99bE4A638981b0ED3E374f419FF7D86fBa26
